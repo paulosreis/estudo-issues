@@ -1,5 +1,5 @@
 ---
-name: FEATURE_ISSU_TEMPLATE
+name: FEATURE_ISSUE_TEMPLATE
 about: Suggest an idea for this project
 title: "\U0001F4A1 Feature request: "
 labels: enhancement
