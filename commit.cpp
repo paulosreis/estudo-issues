@@ -2,9 +2,9 @@
 
 
 int main () {
-    int x;
+    int x2;
 
-    x = 0;
+    x2 = 0;
     printf("modificando");
-    printf("%d\n", x);
+    printf("%d\n", x2);
 }
